@@ -1,0 +1,43 @@
+Item,Familia,Descripcion,Costo,Empresa,Estado,Notas
+1,Materiales Insumos y Reactivos,Frasco de cultivo celular  de 75 cm² con tapa de ventilación (con filtro).  ,141.6,Biotecnomica,Comprado y entregado,
+2,Materiales Insumos y Reactivos,Frasco de cultivo celular   de 25 cm² con tapa de ventilación (con filtro). ,1200.0,Biogenics Lab,En proceso de solicitud de compra,
+3,Materiales Insumos y Reactivos,"PLACA DE CULTIVO CELULAR DE POLIESTIRENO (PS) CON TAPA , 96 POCILLOS",1200.0,Biogenics Lab,Comprado y entregado,
+4,Materiales Insumos y Reactivos,"PLACA DE CULTIVO CELULAR DE POLIESTIRENO (PS), 24 POCILLOS",758.74,Belomed,En proceso de solicitud de compra,
+5,Materiales Insumos y Reactivos,Puntas de micropipetas color claro con filtro de ajuste universal  de 0.5 a 10 µL,28.32,Biotecnomica,Comprado y entregado,
+6,Materiales Insumos y Reactivos,Puntas de micropipetas color amarillo sin filtro de ajuste universal  de 200 µL,141.6,Biotecnomica,Comprado y entregado,
+7,Materiales Insumos y Reactivos,Puntas de micropipetas color claro sin filtro de ajuste universal  de 1000 µL,212.4,Biotecnomica,Comprado y entregado,
+8,Materiales Insumos y Reactivos,"Tubos para centrífuga  de polIpropileno de 15 ml, Esteriles",250.0,BiogenicsLAB,Comprado y entregado,
+9,Materiales Insumos y Reactivos,"Tubos para centrífuga  de polIpropileno de 50 ml, esteriles",300.0,BiogenicsLAB,En proceso de solicitud de compra,
+10,Materiales Insumos y Reactivos,Tubos de microcentrífuga 1.5 mL,124.0,Biogenics Lab,Comprado y entregado,
+11,Materiales Insumos y Reactivos,Crioviales,41.3,Biotecnomica,Comprado y entregado,
+12,Materiales Insumos y Reactivos,"Reservorio de poliestireno de 25mL de color blanco, esteril ",188.8,Biotecnomica,Comprado y entregado,
+13,Materiales Insumos y Reactivos,Reactivo para Ensayo de Viabilidad Celular (Método Colorimétrico MTS). ,5900.0,Mased,En proceso de Aprobación para Compra,Proceso 31.27
+14,Materiales Insumos y Reactivos,Solución salina tamponada con fosfato (PBS),425.42,Biolab Scientific EIRL,Comprado y en proceso de entrega,
+15,Materiales Insumos y Reactivos,Crizotinib (PF-02341066),300.0,ChemDiv,En proceso de Aprobación para Compra,Proceso 31.13
+16,Materiales Insumos y Reactivos,Ceritinib dihidrocloruro (LDK378 dihidrocloruro),350.0,ChemDiv,En proceso de Aprobación para Compra,Proceso 31.13
+17,Materiales Insumos y Reactivos,Alectinib (RG-7853),400.0,ChemDiv,En proceso de Aprobación para Compra,Proceso 31.13
+18,Materiales Insumos y Reactivos,LORLATINIB,420.0,ChemDiv,En proceso de Aprobación para Compra,Proceso 31.13
+19,Materiales Insumos y Reactivos,Moléculas sintéticas tipo inhibidores tirosina kinasa,4000.0,ChemDiv,En proceso de Aprobación para Compra,Proceso 31.13
+20,Materiales Insumos y Reactivos,Moléculas fitoquimicas,4000.0,ChemDiv,En proceso de Aprobación para Compra,Proceso 31.13
+21,Materiales Insumos y Reactivos,Medio RPMI 1640 a concentración 1X,6910.0,Biolab Scientific EIRL,Comprado y entregado,
+22,Materiales Insumos y Reactivos,Suero bovino fetal (Fetal Bovine Serum),3268.61,Biolab Scientific EIRL,Comprado y entregado,
+23,Materiales Insumos y Reactivos,Reactivo Dimethylsulfoxide (DMSO),358.66,Belomed,Comprado y entregado,
+24,Materiales Insumos y Reactivos,Penicilina- Estreptomicina,212.9,Biolab Scientific EIRL,Comprado y entregado,
+25,Materiales Insumos y Reactivos,Kit para detección de apoptosis por citometría de flujo ,1858.0,CytBIO,Comprado y en proceso de entrega,
+26,Materiales Insumos y Reactivos,Anticuerpo monoclonal anti-BCL2,3000.0,AGIRO DIAGNOSTIC,En proceso de solicitud de compra,
+27,Materiales Insumos y Reactivos,Anticuerpo monoclonal anti-β-actin,6000.0,AGIRO DIAGNOSTIC,En proceso de solicitud de compra,
+28,Materiales Insumos y Reactivos,Set de Buffer de fijación y permeablilización (300 tests),2500.0,CytBIO,En proceso de solicitud de compra,
+29,Materiales Insumos y Reactivos,Buffer de permeabilización celular para anticuerpos fosforilados,1500.0,CytBIO,En proceso de solicitud de compra,
+30,Materiales Insumos y Reactivos,Buffer de fijación celular despues de permeabilización celular,500.0,CytBIO,En proceso de solicitud de compra,
+31,Materiales Insumos y Reactivos,Tubos de citometría de flujo,90.0,CytBIO,En proceso de solicitud de compra,
+32,Materiales Insumos y Reactivos,Anticuerpo monoclonal anti ALK ,3000.0,AGIRO DIAGNOSTIC,En proceso de solicitud de compra,Se diseñó el panel y se envió a proveedor para actualización de cotización
+33,Materiales Insumos y Reactivos,Anticuerpo monoclonal anti PI3K,3000.0,AGIRO DIAGNOSTIC,En proceso de solicitud de compra,Se diseñó el panel y se envió a proveedor para actualización de cotización
+34,Materiales Insumos y Reactivos,Anticuerpo monoclonal anti AKT ,3000.0,AGIRO DIAGNOSTIC,En proceso de solicitud de compra,Se diseñó el panel y se envió a proveedor para actualización de cotización
+35,Materiales Insumos y Reactivos,Anticuerpo monoclonal anti MCL1 ,3000.0,AGIRO DIAGNOSTIC,En proceso de solicitud de compra,Se diseñó el panel y se envió a proveedor para actualización de cotización
+36,Materiales Insumos y Reactivos,Anticuerpo monoclonal anti BCLxl (tambien llamado como BCL2L1) ,3000.0,AGIRO DIAGNOSTIC,En proceso de solicitud de compra,Se diseñó el panel y se envió a proveedor para actualización de cotización
+37,Materiales Insumos y Reactivos,Anticuerpo monoclonal anti BAD ,3000.0,AGIRO DIAGNOSTIC,En proceso de solicitud de compra,Se diseñó el panel y se envió a proveedor para actualización de cotización
+38,Materiales Insumos y Reactivos,Anticuerpo monoclonal anti BAD fosforilado ,4006.233333333332,AGIRO DIAGNOSTIC,En proceso de solicitud de compra,Se diseñó el panel y se envió a proveedor para actualización de cotización
+39,Materiales Insumos y Reactivos,Anticuerpo monoclonal anti PI3K fosforilado,4006.233333333332,AGIRO DIAGNOSTIC,En proceso de solicitud de compra,Se diseñó el panel y se envió a proveedor para actualización de cotización
+40,Materiales Insumos y Reactivos,Anticuerpo monoclonal anti AKT fosforilado ,4006.233333333332,AGIRO DIAGNOSTIC,En proceso de solicitud de compra,Se diseñó el panel y se envió a proveedor para actualización de cotización
+41,Materiales Insumos y Reactivos,Anticuerpo monoclonal anti ALK fosforilado ,3000.0,AGIRO DIAGNOSTIC,En proceso de solicitud de compra,Se diseñó el panel y se envió a proveedor para actualización de cotización
+42,Servicio por terceros,Transporte internacional de material biológico,11500.0,World Currier,Comprado y en proceso de entrega,
